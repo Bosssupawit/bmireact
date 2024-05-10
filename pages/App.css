@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh
+  }
+  
+  .bmi-form {
+    background-color: rgb(245, 127, 37);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
